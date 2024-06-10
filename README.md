@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juan Antonio </h1>
 
-<p align="center" width="150px"> Un estudiante de programacion con grandes ideas para plasmarlas, <br>¿Quieres acompañarme en este viaje?<br><br>MAS SOBRE MÍ...<br>-me gusta tocar la guitarra<br>-disruto dibujar<br>-me divierte jugar basketball</p>
+<p align="center" width="150px"> Un estudiante de programacion con grandes ideas para plasmarlas, <br>¿Quieres acompañarme en este viaje?<br><br>MAS SOBRE MÍ...<br>-me gusta tocar la guitarra<br>-disfruto dibujar<br>-me divierte jugar basketball</p>
 
 <p align="center"><b>Conteo de visitantes</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJA-THREE%7D/count.svg" alt="visitor badge"/></p>
